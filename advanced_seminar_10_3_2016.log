@@ -1,28 +1,32 @@
-This is LuaTeX, Version beta-0.80.0 (TeX Live 2015) (rev 5238)  (format=lualatex 2015.8.15)  10 MAR 2016 18:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.10)  11 MAR 2016 11:32
+entering extended mode
  restricted \write18 enabled.
+ %&-line parsing enabled.
 **advanced_seminar_10_3_2016.tex
 (./advanced_seminar_10_3_2016.tex
-LaTeX2e <2015/01/01> patch level 2
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamer.cls
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbasercs.sty
-Package: beamerbasercs 2015/03/08 (rcs-revision 368aa9ba9d38)
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamer.cls
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbasercs.sty
+Package: beamerbasercs 2013/12/25 (rcs-revision 31cc758a62ae)
 )
-Document Class: beamer 2015/01/05 3.36 A class for typesetting presentations (rc
-s-revision 8a39122e1f63)
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
+Document Class: beamer 2013/12/02 3.33 A class for typesetting presentations (r
+cs-revision 332bfd3ce558)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
 Package: beamerbasemodes 2013/09/03 (rcs-revision 768f2d98ca64)
 \beamer@tempbox=\box26
 \beamer@tempcount=\count79
 \c@beamerpauses=\count80
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
 Package: beamerbasedecode 2010/05/01 (rcs-revision efa082c6111d)
 \beamer@slideinframe=\count81
 \beamer@minimum=\count82
 )
 \beamer@commentbox=\box27
 \beamer@modecount=\count83
-) (/home/brmoore/.local/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
@@ -69,23 +73,24 @@ Package ifpdf Info: pdfTeX in PDF mode is detected.
 \beamer@sectionadjust=\count100
 \beamer@tocsectionnumber=\count101
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty
 Package: beamerbaseoptions 2013/03/10 (rcs-revision 47431932db0d)
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 ))
 \beamer@paperwidth=\skip42
 \beamer@paperheight=\skip43
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count102
@@ -101,31 +106,31 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen126
 \Gm@dimlist=\toks15
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: pdftex.def on input line 94.
+Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count105
@@ -133,37 +138,32 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen127
 \Gin@req@width=\dimen128
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-comm
-on.tex
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
 \pgfutil@everybye=\toks16
 \pgfutil@tempdima=\dimen129
 \pgfutil@tempdimb=\dimen130
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-comm
-on-lists.tex))
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-late
-x.def
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box34
- (/home/brmoore/.local/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.
-tex
-Package: pgfrcs 2015/08/07 v3.0.1 (rcs-revision 1.31)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
 ))
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.cod
-e.tex
-Package: pgfsys 2014/07/09 v3.0.1 (rcs-revision 1.48)
-
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code
-.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks17
 \pgfkeys@temptoks=\toks18
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfilte
-red.code.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
 \pgfkeys@tmptoks=\toks19
 ))
 \pgf@x=\dimen131
@@ -184,42 +184,41 @@ red.code.tex
 \t@pgf@tokb=\toks21
 \t@pgf@tokc=\toks22
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdf
-tex.def
-File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-com
-mon-pdf.def
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )))
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoft
-path.code.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
 \pgfsyssoftpath@smallbuffer@items=\count110
 \pgfsyssoftpath@bigbuffer@items=\count111
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprot
-ocol.code.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-))
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+)) (/usr/local/texlive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen139
 \extrarowheight=\dimen140
 \NC@list=\toks23
@@ -240,17 +239,12 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.cod
-e.tex
-Package: pgfcore 2010/04/11 v3.0.1 (rcs-revision 1.7)
-
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.
-tex
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.
-tex)
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.cod
-e.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen141
 \pgfmath@count=\count113
 \pgfmath@box=\box35
@@ -258,30 +252,29 @@ e.tex
 \pgfmath@stack@operand=\toks26
 \pgfmath@stack@operation=\toks27
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
-code.tex
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
-basic.code.tex)
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
-trigonometric.code.tex)
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
-random.code.tex)
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
-comparison.code.tex)
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
-base.code.tex)
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
-round.code.tex)
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
-misc.code.tex)
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
-integerarithmetics.code.tex)))
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code
-.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count114
 ))
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoin
-ts.code.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@picminx=\dimen142
 \pgf@picmaxx=\dimen143
@@ -298,123 +291,123 @@ File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@zx=\dimen154
 \pgf@zy=\dimen155
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepath
-construct.code.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
 \pgf@path@lastx=\dimen156
 \pgf@path@lasty=\dimen157
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepath
-usage.code.tex
-File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
 \pgf@shorten@end@additional=\dimen158
 \pgf@shorten@start@additional=\dimen159
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescop
-es.code.tex
-File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
 \pgfpic=\box36
 \pgf@hbox=\box37
 \pgf@layerbox@main=\box38
 \pgf@picture@serial@count=\count115
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregrap
-hicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
 \pgflinewidth=\dimen160
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretran
-sformations.code.tex
-File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
 \pgf@pt@x=\dimen161
 \pgf@pt@y=\dimen162
 \pgf@pt@temp=\dimen163
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequic
-k.code.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobje
-cts.code.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepath
-processing.code.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
 File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearro
-ws.code.tex
-File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
 \pgfarrowsep=\dimen164
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshad
-e.code.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen165
 \pgf@sys@shading@range@num=\count116
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimag
-e.code.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexte
-rnal.code.tex
-File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
 \pgfexternal@startupbox=\box39
 ))
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelaye
-rs.code.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
 File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretran
-sparency.code.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
 File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatt
-erns.code.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
 File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 )))
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
 Package: xxcolor 2003/10/24 ver 0.1
 \XC@nummixins=\count117
 \XC@countmixins=\count118
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/atbegshi.sty
 Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.s
-ty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.st
-y
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
 Package hobsub Info: Skipping package `ltxcmds' (already loaded).
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX detected.
+Package ifluatex Info: LuaTeX not detected.
 Package hobsub Info: Skipping package `ifvtex' (already loaded).
 Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
 Package hobsub Info: Skipping package `ifpdf' (already loaded).
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-Package: luatex-loader 2010/03/09 v0.4 Lua module loader (HO)
-
-(/home/brmoore/.local/texlive/texmf-dist/scripts/oberdiek/oberdiek.luatex.lua)
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO)
-
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks28
 Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO)
-
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
 Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
 Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
 )
@@ -427,22 +420,23 @@ Package atveryend Info: \enddocument detected (standard20110627).
 Package hobsub Info: Skipping package `atbegshi' (already loaded).
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
-) (/home/brmoore/.local/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen166
 \Hy@linkcounter=\count119
 \Hy@pagecounter=\count120
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count121
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `bookmarks' set `true' on input line 4319.
@@ -457,7 +451,7 @@ Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count122
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/url/url.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -484,72 +478,74 @@ Package hyperref Message: Stopped early.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count125
 \c@bookmark@seq@number=\count126
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
-2.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
 ))
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbaserequires.st
-y
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbaserequires.sty
 Package: beamerbaserequires 2010/05/01  (rcs-revision efa082c6111d)
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbasecompatibili
-ty.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbasecompatibility.st
+y
 Package: beamerbasecompatibility 2012/05/01  (rcs-revision 67c48b3b652d)
-)
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbasefont.sty
-Package: beamerbasefont 2015/01/05  (rcs-revision b4b4bee242e2)
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbasefont.sty
+Package: beamerbasefont 2013/10/18  (rcs-revision 72f39e01808a)
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks29
+\@emptytoks=\toks28
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+Package: sansmathaccent 2013/03/28
+(/usr/local/texlive/2014/texmf-dist/tex/latex/filehook/filehook.sty
+Package: filehook 2011/10/12 v0.5d Hooks for input files
 )))
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbasetranslator.
-sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
 Package: beamerbasetranslator 2010/06/11  (rcs-revision 85fd1cc7fc42)
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/translator/translator
-.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/translator/translator.sty
 Package: translator 2010/06/12 ver 1.10
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/translator/translator
--language-mappings.tex)))
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbasemisc.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/translator/translator-lang
+uage-mappings.tex)))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbasemisc.sty
 Package: beamerbasemisc 2013/09/03  (rcs-revision a55719c41d85)
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.
-sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty
 Package: beamerbasetwoscreens 2010/05/01  (rcs-revision efa082c6111d)
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
 Package: beamerbaseoverlay 2013/12/25  (rcs-revision f6bd5e3805da)
 \beamer@argscount=\count127
 \beamer@lastskipcover=\skip47
 \beamer@trivlistdepth=\count128
-) (/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbasetitle.sty
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbasetitle.sty
 Package: beamerbasetitle 2010/09/21  (rcs-revision f0446ed0b6ae)
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbasesection.sty
 Package: beamerbasesection 2013/06/07  (rcs-revision 60b9fe0f342f)
 \c@lecture=\count129
 \c@part=\count130
 \c@section=\count131
 \c@subsection=\count132
 \c@subsubsection=\count133
-) (/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
-Package: beamerbaseframe 2014/02/20  (rcs-revision 4b8ceeeff434)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
+Package: beamerbaseframe 2013/10/02  (rcs-revision cdc8e9a3aaac)
 \beamer@framebox=\box40
 \beamer@frametitlebox=\box41
 \beamer@zoombox=\box42
@@ -561,49 +557,43 @@ Package: beamerbaseframe 2014/02/20  (rcs-revision 4b8ceeeff434)
 \beamer@framebottomskip=\skip49
 \beamer@frametopskipautobreak=\skip50
 \beamer@framebottomskipautobreak=\skip51
-\beamer@envbody=\toks30
+\beamer@envbody=\toks29
 \framewidth=\dimen171
 \c@framenumber=\count137
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbaseverbatim.st
-y
-Package: beamerbaseverbatim 2015/01/05  (rcs-revision 431510bb5890)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+Package: beamerbaseverbatim 2012/08/30  (rcs-revision dfdb135076b3)
 \beamer@verbatimfileout=\write4
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbaseframesize.s
-ty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
 Package: beamerbaseframesize 2011/09/12  (rcs-revision 70f9d8411e54)
 \beamer@splitbox=\box43
 \beamer@autobreakcount=\count138
 \beamer@autobreaklastheight=\dimen172
-\beamer@frametitletoks=\toks31
-\beamer@framesubtitletoks=\toks32
+\beamer@frametitletoks=\toks30
+\beamer@framesubtitletoks=\toks31
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbaseframecompon
-ents.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.
+sty
 Package: beamerbaseframecomponents 2013/10/18  (rcs-revision 5cf6c5555a45)
 \beamer@footins=\box44
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbasecolor.sty
+Package: beamerbasecolor 2010/06/06  (rcs-revision d1a9b48be06d)
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbasecolor.sty
-Package: beamerbasecolor 2015/02/21  (rcs-revision d944b04ee2d5)
-)
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
 Package: beamerbasenotes 2012/12/19  (rcs-revision 1686da3db3c9)
 \beamer@frameboxcopy=\box45
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbasetoc.sty
-Package: beamerbasetoc 2015/03/08  (rcs-revision 7270298bbaae)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbasetoc.sty
+Package: beamerbasetoc 2013/05/23  (rcs-revision 0fdf5bc43be8)
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbasetemplates.s
-ty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
 Package: beamerbasetemplates 2010/05/01  (rcs-revision efa082c6111d)
-\beamer@sbttoks=\toks33
+\beamer@sbttoks=\toks32
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbaseauxtemplate
-s.sty
-Package: beamerbaseauxtemplates 2014/06/30  (rcs-revision 580088513a67)
-
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
+Package: beamerbaseauxtemplates 2013/09/04  (rcs-revision 4ac715c499d0)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
 Package: beamerbaseboxes 2012/05/13  (rcs-revision 56972908a390)
 \bmb@box=\box46
 \bmb@colorbox=\box47
@@ -617,44 +607,43 @@ Package: beamerbaseboxes 2012/05/13  (rcs-revision 56972908a390)
 )
 \beamer@blockheadheight=\dimen177
 ))
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbaselocalstruct
-ure.sty
-Package: beamerbaselocalstructure 2014/09/10  (rcs-revision 393f6dcff371)
- (/home/brmoore/.local/texlive/texmf-dist/tex/latex/tools/enumerate.sty
-Package: enumerate 2014/10/28 v3.00 enumerate extensions (DPC)
-\@enLab=\toks34
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.s
+ty
+Package: beamerbaselocalstructure 2013/09/04  (rcs-revision 4ac715c499d0)
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks33
 )
 \c@figure=\count139
 \c@table=\count140
 \abovecaptionskip=\skip52
 \belowcaptionskip=\skip53
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbasenavigation.
-sty
-Package: beamerbasenavigation 2015/02/27  (rcs-revision 923f4bf87efa)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
+Package: beamerbasenavigation 2013/10/05  (rcs-revision 62be157fe783)
 \beamer@section@min@dim=\dimen178
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbasetheorems.st
-y
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty
 Package: beamerbasetheorems 2010/06/06  (rcs-revision 7e7cc5e53e9d)
- (/home/brmoore/.local/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip54
 
 For additional information on amsmath, use the `?' option.
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
-\@emptytoks=\toks35
+\@emptytoks=\toks34
 \ex@=\dimen179
 ))
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen180
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count141
@@ -677,104 +666,319 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \dotsspace@=\muskip11
 \c@parentequation=\count148
 \dspbrk@lvl=\count149
-\tag@help=\toks36
+\tag@help=\toks35
 \row@=\count150
 \column@=\count151
 \maxfields@=\count152
-\andhelp@=\toks37
+\andhelp@=\toks36
 \eqnshift@=\dimen182
 \alignsep@=\dimen183
 \tagshift@=\dimen184
 \tagwidth@=\dimen185
 \totwidth@=\dimen186
 \lineht@=\dimen187
-\@envbody=\toks38
+\@envbody=\toks37
 \multlinegap=\skip55
 \multlinetaggap=\skip56
-\mathdisplay@stack=\toks39
+\mathdisplay@stack=\toks38
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
-Package: amsthm 2015/03/04 v2.20.2
-\thm@style=\toks40
-\thm@bodyfont=\toks41
-\thm@headfont=\toks42
-\thm@notefont=\toks43
-\thm@headpunct=\toks44
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks39
+\thm@bodyfont=\toks40
+\thm@headfont=\toks41
+\thm@notefont=\toks42
+\thm@headpunct=\toks43
 \thm@preskip=\skip57
 \thm@postskip=\skip58
 \thm@headsep=\skip59
-\dth@everypar=\toks45
+\dth@everypar=\toks44
 )
 \c@theorem=\count153
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/beamerbasethemes.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/beamerbasethemes.sty
 Package: beamerbasethemes 2010/05/01  (rcs-revision efa082c6111d)
 ))
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/themes/theme/beamerth
-emedefault.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/themes/theme/beamerthemede
+fault.sty
 Package: beamerthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/themes/font/beamerfon
-tthemedefault.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/themes/font/beamerfontthem
+edefault.sty
 Package: beamerfontthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/themes/color/beamerco
-lorthemedefault.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/themes/color/beamercolorth
+emedefault.sty
 Package: beamercolorthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/themes/inner/beamerin
-nerthemedefault.sty
-Package: beamerinnerthemedefault 2014/06/30  (rcs-revision 580088513a67)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/themes/inner/beamerinnerth
+emedefault.sty
+Package: beamerinnerthemedefault 2013/10/15  (rcs-revision 65cb471f9634)
 \beamer@dima=\dimen188
 \beamer@dimb=\dimen189
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/themes/outer/beamerou
-terthemedefault.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/themes/outer/beamerouterth
+emedefault.sty
 Package: beamerouterthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
 )))
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks46
-\inpenc@posthook=\toks47
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2014/04/30 v1.2b Input encoding file
+\inpenc@prehook=\toks45
+\inpenc@posthook=\toks46
 
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
 
-Package inputenc Warning: inputenc package ignored with utf8 based engines.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
 
-) (/home/brmoore/.local/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2015/10/14 v6210 L3 programming layer (loader) 
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2015/10/14 v6210 L3 programming layer (code) 
-L3 Module: l3bootstrap 2015/09/30 v6139 L3 Bootstrap code
-L3 Module: l3names 2015/10/10 v6209 L3 Namespace for primitives
-L3 Module: l3basics 2015/09/22 v6033 L3 Basic definitions
-L3 Module: l3expan 2015/09/10 v5983 L3 Argument expansion
-L3 Module: l3tl 2015/09/29 v6121 L3 Token lists
-L3 Module: l3str 2015/09/20 v6021 L3 Strings
-L3 Module: l3seq 2015/08/05 v5777 L3 Sequences and stacks
-L3 Module: l3int 2015/09/25 v6089 L3 Integers
-\c_max_int=\count154
-\l_tmpa_int=\count155
-\l_tmpb_int=\count156
-\g_tmpa_int=\count157
-\g_tmpb_int=\count158
-L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
-L3 Module: l3prg 2015/10/09 v6208 L3 Control structures
-\g__prg_map_int=\count159
-L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
-L3 Module: l3token 2015/09/28 v6114 L3 Experimental token manipulation
-L3 Module: l3prop 2015/08/05 v5777 L3 Property lists
-L3 Module: l3msg 2015/09/28 v6113 L3 Messages
-L3 Module: l3file 2015/09/23 v6037 L3 File and I/O operations
-\l_iow_line_count_int=\count160
-\l__iow_target_count_int=\count161
-\l__iow_current_line_int=\count162
-\l__iow_current_word_int=\count163
-\l__iow_current_indentation_int=\count164
-L3 Module: l3skip 2015/09/25 v6089 L3 Dimensions and skips
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/siunitx/siunitx.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2014/05/20 v4814 L3 programming layer (loader) 
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2014/05/20 v4814 L3 programming layer (code) 
+L3 Module: l3bootstrap 2014/05/16 v4782 L3 Bootstrap code
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count154
+)
+L3 Module: l3names 2014/05/04 v4728 L3 Namespace for primitives
+L3 Module: l3basics 2014/05/04 v4728 L3 Basic definitions
+L3 Module: l3expan 2014/04/30 v4712 L3 Argument expansion
+L3 Module: l3tl 2014/05/04 v4728 L3 Token lists
+L3 Module: l3seq 2014/04/30 v4712 L3 Sequences and stacks
+L3 Module: l3int 2014/05/16 v4776 L3 Integers
+\c_max_int=\count155
+\l_tmpa_int=\count156
+\l_tmpb_int=\count157
+\g_tmpa_int=\count158
+\g_tmpb_int=\count159
+L3 Module: l3quark 2014/05/04 v4728 L3 Quarks
+L3 Module: l3prg 2014/05/04 v4728 L3 Control structures
+\g__prg_map_int=\count160
+L3 Module: l3clist 2014/05/04 v4728 L3 Comma separated lists
+L3 Module: l3token 2014/05/04 v4728 L3 Experimental token manipulation
+L3 Module: l3prop 2014/04/30 v4712 L3 Property lists
+L3 Module: l3msg 2014/05/04 v4728 L3 Messages
+L3 Module: l3file 2014/05/05 v4737 L3 File and I/O operations
+\l_iow_line_count_int=\count161
+\l__iow_target_count_int=\count162
+\l__iow_current_line_int=\count163
+\l__iow_current_word_int=\count164
+\l__iow_current_indentation_int=\count165
+L3 Module: l3skip 2014/05/05 v4738 L3 Dimensions and skips
 \c_zero_dim=\dimen190
 \c_max_dim=\dimen191
 \l_tmpa_dim=\dimen192
@@ -793,26 +997,26 @@ L3 Module: l3skip 2015/09/25 v6089 L3 Dimensions and skips
 \l_tmpb_muskip=\muskip15
 \g_tmpa_muskip=\muskip16
 \g_tmpb_muskip=\muskip17
-L3 Module: l3keys 2015/09/23 v6037 L3 Key-value interfaces
-\g__keyval_level_int=\count165
-\l_keys_choice_int=\count166
-L3 Module: l3fp 2015/08/25 v5890 L3 Floating points
-\c__fp_leading_shift_int=\count167
-\c__fp_middle_shift_int=\count168
-\c__fp_trailing_shift_int=\count169
-\c__fp_big_leading_shift_int=\count170
-\c__fp_big_middle_shift_int=\count171
-\c__fp_big_trailing_shift_int=\count172
-\c__fp_Bigg_leading_shift_int=\count173
-\c__fp_Bigg_middle_shift_int=\count174
-\c__fp_Bigg_trailing_shift_int=\count175
-L3 Module: l3box 2015/08/09 v5822 L3 Experimental boxes
+L3 Module: l3keys 2014/05/08 v4753 L3 Key-value interfaces
+\g__keyval_level_int=\count166
+\l_keys_choice_int=\count167
+L3 Module: l3fp 2014/04/30 v4712 L3 Floating points
+\c__fp_leading_shift_int=\count168
+\c__fp_middle_shift_int=\count169
+\c__fp_trailing_shift_int=\count170
+\c__fp_big_leading_shift_int=\count171
+\c__fp_big_middle_shift_int=\count172
+\c__fp_big_trailing_shift_int=\count173
+\c__fp_Bigg_leading_shift_int=\count174
+\c__fp_Bigg_middle_shift_int=\count175
+\c__fp_Bigg_trailing_shift_int=\count176
+L3 Module: l3box 2014/05/04 v4728 L3 Experimental boxes
 \c_empty_box=\box53
 \l_tmpa_box=\box54
 \l_tmpb_box=\box55
 \g_tmpa_box=\box56
 \g_tmpb_box=\box57
-L3 Module: l3coffins 2015/08/06 v5789 L3 Coffin code layer
+L3 Module: l3coffins 2014/05/04 v4728 L3 Coffin code layer
 \l__coffin_internal_box=\box58
 \l__coffin_internal_dim=\dimen196
 \l__coffin_offset_x_dim=\dimen197
@@ -820,7 +1024,8 @@ L3 Module: l3coffins 2015/08/06 v5789 L3 Coffin code layer
 \l__coffin_x_dim=\dimen199
 \l__coffin_y_dim=\dimen200
 \l__coffin_x_prime_dim=\dimen201
-\l__coffin_y_prime_dim=\dimen202
+Normal \dimen register pool exhausted, switching to extended pool.
+\l__coffin_y_prime_dim=\dimen256
 \c_empty_coffin=\box59
 \l__coffin_aligned_coffin=\box60
 \l__coffin_aligned_internal_coffin=\box61
@@ -829,85 +1034,82 @@ L3 Module: l3coffins 2015/08/06 v5789 L3 Coffin code layer
 \l__coffin_display_coffin=\box64
 \l__coffin_display_coord_coffin=\box65
 \l__coffin_display_pole_coffin=\box66
-\l__coffin_display_offset_dim=\dimen203
-\l__coffin_display_x_dim=\dimen204
-\l__coffin_display_y_dim=\dimen205
-L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
-L3 Module: l3candidates 2015/10/09 v6208 L3 Experimental additions to l3kernel
-\l__box_top_dim=\dimen206
-\l__box_bottom_dim=\dimen207
-\l__box_left_dim=\dimen208
-\l__box_right_dim=\dimen209
-\l__box_top_new_dim=\dimen210
-\l__box_bottom_new_dim=\dimen211
-\l__box_left_new_dim=\dimen212
-\l__box_right_new_dim=\dimen213
+\l__coffin_display_offset_dim=\dimen257
+\l__coffin_display_x_dim=\dimen258
+\l__coffin_display_y_dim=\dimen259
+L3 Module: l3color 2014/04/30 v4712 L3 Experimental color support
+L3 Module: l3luatex 2014/04/30 v4712 L3 Experimental LuaTeX-specific functions
+\g__cctab_allocate_int=\count177
+\g__cctab_stack_int=\count178
+L3 Module: l3candidates 2014/05/04 v4734 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen260
+\l__box_bottom_dim=\dimen261
+\l__box_left_dim=\dimen262
+\l__box_right_dim=\dimen263
+\l__box_top_new_dim=\dimen264
+\l__box_bottom_new_dim=\dimen265
+\l__box_left_new_dim=\dimen266
+\l__box_right_new_dim=\dimen267
 \l__box_internal_box=\box67
-\l__coffin_bounding_shift_dim=\dimen214
-\l__coffin_left_corner_dim=\dimen215
-\l__coffin_right_corner_dim=\dimen216
-\l__coffin_bottom_corner_dim=\dimen217
-\l__coffin_top_corner_dim=\dimen218
-\l__coffin_scaled_total_height_dim=\dimen219
-\l__coffin_scaled_width_dim=\dimen220
-L3 Module: l3sys 2015/09/25 v6087 L3 Experimental system/runtime functions
-L3 Module: l3luatex 2015/09/10 v5983 L3 Experimental LuaTeX-specific functions
-)
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/l3kernel/l3unicode-data.def
-File: l3unicode-data.def 2015/07/20 v5676 L3 Unicode data
-)
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
-File: l3pdfmode.def 2015/09/10 v5983 L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count176
+\l__coffin_bounding_shift_dim=\dimen268
+\l__coffin_left_corner_dim=\dimen269
+\l__coffin_right_corner_dim=\dimen270
+\l__coffin_bottom_corner_dim=\dimen271
+\l__coffin_top_corner_dim=\dimen272
+\l__coffin_scaled_total_height_dim=\dimen273
+\l__coffin_scaled_width_dim=\dimen274
 ))
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2015/10/14 v6210 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count177
-\l__xparse_m_args_int=\count178
-\l__xparse_mandatory_args_int=\count179
-\l__xparse_processor_int=\count180
-\l__xparse_v_nesting_int=\count181
+(/usr/local/texlive/2014/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2014/05/05 v4740 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count179
+\l__xparse_m_args_int=\count180
+\l__xparse_mandatory_args_int=\count181
+\l__xparse_processor_int=\count182
+\l__xparse_v_nesting_int=\count183
 )
-Package: siunitx 2015/10/15 v2.6m A comprehensive (SI) units package
+Package: siunitx 2013/07/31 v2.5s A comprehensive (SI) units package
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e
-.sty
-Package: l3keys2e 2015/10/14 v6210 LaTeX2e option processing using LaTeX3 keys
+(/usr/local/texlive/2014/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2014/05/05 v4740 LaTeX2e option processing using LaTeX3 keys
 )
+Variant \tl_if_blank:VTF already defined; not changing it on line 50
 \l__siunitx_tmp_box=\box68
-\l__siunitx_tmp_dim=\dimen221
-\l__siunitx_tmp_int=\count182
-\l__siunitx_number_mantissa_length_int=\count183
-\l__siunitx_number_uncert_length_int=\count184
-\l__siunitx_round_int=\count185
-\l__siunitx_process_decimal_int=\count186
-\l__siunitx_process_uncertainty_int=\count187
-\l__siunitx_process_fixed_int=\count188
-\l__siunitx_process_integer_min_int=\count189
-\l__siunitx_process_precision_int=\count190
-\l__siunitx_group_min_int=\count191
+\l__siunitx_tmp_dim=\dimen275
+\l__siunitx_tmp_int=\count184
+Variant \prop_get:NVNT already defined; not changing it on line 371
+Variant \prop_get:NVNF already defined; not changing it on line 372
+Variant \prop_get:NVNTF already defined; not changing it on line 373
+\l__siunitx_number_mantissa_length_int=\count185
+\l__siunitx_number_uncert_length_int=\count186
+\l__siunitx_round_int=\count187
+\l__siunitx_process_decimal_int=\count188
+\l__siunitx_process_uncertainty_int=\count189
+\l__siunitx_process_fixed_int=\count190
+\l__siunitx_process_integer_min_int=\count191
+\l__siunitx_process_precision_int=\count192
+\l__siunitx_group_min_int=\count193
 \l__siunitx_angle_marker_box=\box69
 \l__siunitx_angle_unit_box=\box70
-\l__siunitx_angle_marker_dim=\dimen222
-\l__siunitx_angle_unit_dim=\dimen223
-\l__siunitx_unit_int=\count192
-\l__siunitx_unit_denominator_int=\count193
-\l__siunitx_unit_numerator_int=\count194
-\l__siunitx_unit_prefix_int=\count195
-\l__siunitx_unit_prefix_base_int=\count196
-\l__siunitx_unit_prefix_gram_int=\count197
-\l__siunitx_number_product_int=\count198
+\l__siunitx_angle_marker_dim=\dimen276
+\l__siunitx_angle_unit_dim=\dimen277
+\l__siunitx_unit_int=\count194
+\l__siunitx_unit_denominator_int=\count195
+\l__siunitx_unit_numerator_int=\count196
+\l__siunitx_unit_prefix_int=\count197
+\l__siunitx_unit_prefix_base_int=\count198
+\l__siunitx_unit_prefix_gram_int=\count199
+\l__siunitx_number_product_int=\count200
 \c__siunitx_one_fill_skip=\skip66
 \l__siunitx_table_unit_align_skip=\skip67
-\l__siunitx_table_exponent_dim=\dimen224
-\l__siunitx_table_integer_dim=\dimen225
-\l__siunitx_table_mantissa_dim=\dimen226
-\l__siunitx_table_marker_dim=\dimen227
-\l__siunitx_table_result_dim=\dimen228
-\l__siunitx_table_uncert_dim=\dimen229
-\l__siunitx_table_fill_pre_dim=\dimen230
-\l__siunitx_table_fill_post_dim=\dimen231
-\l__siunitx_table_fill_mid_dim=\dimen232
+\l__siunitx_table_exponent_dim=\dimen278
+\l__siunitx_table_integer_dim=\dimen279
+\l__siunitx_table_mantissa_dim=\dimen280
+\l__siunitx_table_marker_dim=\dimen281
+\l__siunitx_table_result_dim=\dimen282
+\l__siunitx_table_uncert_dim=\dimen283
+\l__siunitx_table_fill_pre_dim=\dimen284
+\l__siunitx_table_fill_post_dim=\dimen285
+\l__siunitx_table_fill_mid_dim=\dimen286
 \l__siunitx_table_pre_box=\box71
 \l__siunitx_table_post_box=\box72
 \l__siunitx_table_mantissa_box=\box73
@@ -917,153 +1119,168 @@ Package: l3keys2e 2015/10/14 v6210 LaTeX2e option processing using LaTeX3 keys
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7209.
+. Defining document command \DeclareBinaryPrefix with arg. spec. 'mmm' on line
+. 7101.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIPostPower with sig. 'mm' on line 7212.
+. Defining document command \DeclareSIPostPower with arg. spec. 'mm' on line
+. 7104.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7215.
+. Defining document command \DeclareSIPrefix with arg. spec. 'mmm' on line
+. 7107.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIPrePower with sig. 'mm' on line 7218.
+. Defining document command \DeclareSIPrePower with arg. spec. 'mm' on line
+. 7110.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIQualifier with sig. 'mm' on line 7221.
+. Defining document command \DeclareSIQualifier with arg. spec. 'mm' on line
+. 7113.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7224.
+. Defining document command \DeclareSIUnit with arg. spec. 'O{}mm' on line
+. 7116.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7227.
+. Defining document command \DeclareSIUnitWithOptions with arg. spec. 'mmm' on
+. line 7119.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7242.
+. Defining document command \ang with arg. spec. 'o>{\SplitArgument {2}{;}}m'
+. on line 7134.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \num with sig. 'om' on line 7250.
+. Defining document command \num with arg. spec. 'om' on line 7142.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7258.
+. Defining document command \numlist with arg. spec. 'o>{\SplitList {;}}m' on
+. line 7150.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \numrange with sig. 'omm' on line 7266.
+. Defining document command \numrange with arg. spec. 'omm' on line 7158.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7277.
+. Defining document command \SIlist with arg. spec. 'o>{\SplitList {;}}mm' on
+. line 7169.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SIrange with sig. 'ommm' on line 7288.
+. Defining document command \SIrange with arg. spec. 'ommm' on line 7180.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SI with sig. 'omom' on line 7299.
+. Defining document command \SI with arg. spec. 'omom' on line 7191.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \sisetup with sig. 'm' on line 7302.
+. Defining document command \sisetup with arg. spec. 'm' on line 7194.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \tablenum with sig. 'om' on line 7314.
+. Defining document command \tablenum with arg. spec. 'om' on line 7206.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \si with sig. 'om' on line 7325.
+. Defining document command \si with arg. spec. 'om' on line 7217.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \__siunitx_bookmark_num:w with sig. 'om' on line 7372.
+. Defining document command \__siunitx_bookmark_num:w with arg. spec. 'om' on
+. line 7262.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \__siunitx_bookmark_numrange:w with sig. 'omm' on line
-. 7374.
+. Defining document command \__siunitx_bookmark_numrange:w with arg. spec.
+. 'omm' on line 7264.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \__siunitx_bookmark_SI:w with sig. 'omom' on line 7376.
+. Defining document command \__siunitx_bookmark_SI:w with arg. spec. 'omom' on
+. line 7266.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \__siunitx_bookmark_SIlist:w with sig. 'omm' on line 7378.
+. Defining document command \__siunitx_bookmark_SIlist:w with arg. spec. 'omm'
+. on line 7268.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \__siunitx_bookmark_SIrange:w with sig. 'ommm' on line
-. 7380.
+. Defining document command \__siunitx_bookmark_SIrange:w with arg. spec.
+. 'ommm' on line 7270.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \__siunitx_bookmark_si:w with sig. 'om' on line 7381.
+. Defining document command \__siunitx_bookmark_si:w with arg. spec. 'om' on
+. line 7271.
 .................................................
 \g__file_internal_ior=\read2
-) (/home/brmoore/.local/texlive/texmf-dist/tex/latex/cancel/cancel.sty
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/cancel/cancel.sty
 Package: cancel 2013/04/12 v2.2 Cancel math terms
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/ulem/ulem.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box75
 \UL@hyphenbox=\box76
 \UL@skip=\skip70
-\UL@hook=\toks48
-\UL@height=\dimen233
-\UL@pe=\count199
-\UL@pixel=\dimen256
+\UL@hook=\toks47
+\UL@height=\dimen287
+\UL@pe=\count201
+\UL@pixel=\dimen288
 \ULC@box=\box77
 Package: ulem 2012/05/18
-\ULdepth=\dimen257
+\ULdepth=\dimen289
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count200
-\calc@Bcount=\count201
-\calc@Adimen=\dimen258
-\calc@Bdimen=\dimen259
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+Normal \count register pool exhausted, switching to extended pool.
+\calc@Acount=\count277
+\calc@Bcount=\count278
+\calc@Adimen=\dimen290
+\calc@Bdimen=\dimen291
 \calc@Askip=\skip71
 \calc@Bskip=\skip72
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count202
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
+\calc@Ccount=\count279
 \calc@Cskip=\skip73
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/ms/ragged2e.sty
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/ms/everysel.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/ms/everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \CenteringLeftskip=\skip74
@@ -1081,44 +1298,44 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \RaggedRightParindent=\skip86
 \JustifyingParindent=\skip87
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/caption/caption.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/caption/caption3.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
-\captionmargin=\dimen260
-\captionmargin@=\dimen261
-\captionwidth=\dimen262
-\caption@tempdima=\dimen263
-\caption@indent=\dimen264
-\caption@parindent=\dimen265
-\caption@hangindent=\dimen266
+\captionmargin=\dimen292
+\captionmargin@=\dimen293
+\captionwidth=\dimen294
+\caption@tempdima=\dimen295
+\caption@indent=\dimen296
+\caption@parindent=\dimen297
+\caption@hangindent=\dimen298
 )
-\c@ContinuedFloat=\count203
+\c@ContinuedFloat=\count280
 Package caption Info: beamer document class.
 Package caption Info: hyperref package is loaded.
 Package caption Info: Hyperref support is turned off
 (caption)             because hyperref has stopped early.
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/themes/theme/beamerth
-emeMadrid.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/themes/theme/beamerthemeMa
+drid.sty
 Package: beamerthemeMadrid 2010/06/17  (rcs-revision d02a7cf4d8ae)
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/themes/color/beamerco
-lorthemewhale.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/themes/color/beamercolorth
+emewhale.sty
 Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/themes/color/beamerco
-lorthemeorchid.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/themes/color/beamercolorth
+emeorchid.sty
 Package: beamercolorthemeorchid 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/themes/inner/beamerin
-nerthemerounded.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/themes/inner/beamerinnerth
+emerounded.sty
 Package: beamerinnerthemerounded 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/themes/outer/beamerou
-terthemeinfolines.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/themes/outer/beamerouterth
+emeinfolines.sty
 Package: beamerouterthemeinfolines 2012/10/16  (rcs-revision 51a8c72084af)
 ))
 
@@ -1138,7 +1355,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 61.
 
 (./advanced_seminar_10_3_2016.aux)
-\openout1 = advanced_seminar_10_3_2016.aux
+\openout1 = `advanced_seminar_10_3_2016.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
 LaTeX Font Info:    ... okay on input line 61.
@@ -1189,39 +1406,54 @@ LaTeX Font Info:    ... okay on input line 61.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count281
+\scratchdimen=\dimen299
+\scratchbox=\box78
+\nofMPsegments=\count282
+\nofMParguments=\count283
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count284
+\MPscratchDim=\dimen300
+\MPnumerator=\count285
+\makeMPintoPDFobject=\count286
+\everyMPtoPDFconversion=\toks49
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 )
 Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.tif,.jpeg,.PNG,.PDF,.JPG,.JPEG,.eps]
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-
-)) ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box78
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box79
 Package hyperref Info: Link coloring OFF on input line 61.
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.st
-y
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count204
+\c@section@level=\count287
 )
 LaTeX Info: Redefining \ref on input line 61.
 LaTeX Info: Redefining \pageref on input line 61.
 LaTeX Info: Redefining \nameref on input line 61.
- (./advanced_seminar_10_3_2016.out) (./advanced_seminar_10_3_2016.out)
-\@outlinefile=\write5
 
-\openout5 = advanced_seminar_10_3_2016.out
+(./advanced_seminar_10_3_2016.out) (./advanced_seminar_10_3_2016.out)
+\@outlinefile=\write5
+\openout5 = `advanced_seminar_10_3_2016.out'.
+
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 61.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
@@ -1264,44 +1496,128 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 61.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 61.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 61.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 6
+1.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
+61.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
+ut line 61.
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/translator/dicts/tran
-slator-basic-dictionary/translator-basic-dictionary-English.dict
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/translator/dicts/translato
+r-basic-dictionary/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/translator/dicts/tran
-slator-bibliography-dictionary/translator-bibliography-dictionary-English.dict
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/translator/dicts/translato
+r-bibliography-dictionary/translator-bibliography-dictionary-English.dict
 Dictionary: translator-bibliography-dictionary, Language: English 
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/translator/dicts/tran
-slator-environment-dictionary/translator-environment-dictionary-English.dict
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/translator/dicts/translato
+r-environment-dictionary/translator-environment-dictionary-English.dict
 Dictionary: translator-environment-dictionary, Language: English 
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/translator/dicts/tran
-slator-months-dictionary/translator-months-dictionary-English.dict
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/translator/dicts/translato
+r-months-dictionary/translator-months-dictionary-English.dict
 Dictionary: translator-months-dictionary, Language: English 
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/translator/dicts/tran
-slator-numbers-dictionary/translator-numbers-dictionary-English.dict
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/translator/dicts/translato
+r-numbers-dictionary/translator-numbers-dictionary-English.dict
 Dictionary: translator-numbers-dictionary, Language: English 
 )
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/beamer/translator/dicts/tran
-slator-theorem-dictionary/translator-theorem-dictionary-English.dict
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/translator/dicts/translato
+r-theorem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
 LaTeX Info: Redefining \includegraphics on input line 61.
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/siunitx/siunitx-abbreviation
-s.cfg
-File: siunitx-abbreviations.cfg 2015/10/15 v2.6m siunitx: Abbreviated units
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/siunitx/config/siunitx-abbreviati
+ons.cfg
+File: siunitx-abbreviations.cfg 2013/07/31 v2.5s siunitx: Abbreviated units
 ) ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 61.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: Incompatible package detected (regarding \caption).
-(caption)             \caption = macro:->\ifx \@captype \@undefined \@latex@erro
-r {\noexpand \caption outside figure or table}\@ehd \expandafter \@gobble \else 
-\refstepcounter \@captype \expandafter \@firstofone \fi {\@dblarg {\@caption \@c
-aptype }}.
+(caption)             \caption = macro:->\ifx \@captype \@undefined \@latex@err
+or {\noexpand \caption outside figure or table}\@ehd \expandafter \@gobble \els
+e \refstepcounter \@captype \expandafter \@firstofone \fi {\@dblarg {\@caption 
+\@captype }}.
 
 
 Package caption Warning: Forced redefinition of \caption since the
@@ -1311,18 +1627,25 @@ See the caption package documentation for explanation.
 
 Package caption Info: End \AtBeginDocument code.
 (./advanced_seminar_10_3_2016.nav)
-\c__siunitx_mathsf_int=\count205
+\c__siunitx_mathsf_int=\count288
 LaTeX Font Info:    Try loading font information for U+msa on input line 61.
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 61.
 
-(/home/brmoore/.local/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-\c__siunitx_mathtt_int=\count206
+LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
+line 61.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+)
+\c__siunitx_mathtt_int=\count289
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
@@ -1332,209 +1655,447 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
 
 <use images/university-of-melbourne-logo.jpg>
-Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input l
-ine 63.
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 63.
 (pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
  [1
 
-{/home/brmoore/.local/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./im
-ages/university-of-melbourne-logo.jpg>]
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
+s/university-of-melbourne-logo.jpg>]
 File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
  <use images/university-of-melbourne-logo.jpg>
-Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input l
-ine 75.
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 87.
 (pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
  [2
 
 ]
-<images/sps.png, id=85, 521.95pt x 656.4525pt>
+File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
+
+<use images/university-of-melbourne-logo.jpg>
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 108.
+(pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
+ [3
+
+]
+File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
+
+<use images/university-of-melbourne-logo.jpg>
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 128.
+(pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
+ [4
+
+]
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 151.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <5.5> not available
+(Font)              size <5> substituted on input line 151.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
+(Font)              size <5> substituted on input line 151.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
+(Font)              size <5> substituted on input line 151.
+
+
+LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <5.5> not available
+(Font)              size <5> substituted on input line 151.
+
+File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
+<use images/university-of-melbourne-logo.jpg>
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 151.
+(pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
+ [5
+
+]
+<images/sps.png, id=172, 521.95pt x 656.4525pt>
 File: images/sps.png Graphic file (type png)
  <use images/sps.png>
-Package pdftex.def Info: images/sps.png used on input line 106.
+Package pdftex.def Info: images/sps.png used on input line 184.
 (pdftex.def)             Requested size: 165.6894pt x 208.38478pt.
 File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
 
 <use images/university-of-melbourne-logo.jpg>
-Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input l
-ine 106.
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 184.
 (pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
- [3
+ [6
 
-<./images/sps.png>]
-<images/ua1-overview.png, id=114, 955.57pt x 780.9175pt>
+ <./images/sps.png>]
+<images/ua1-overview.png, id=201, 955.57pt x 780.9175pt>
 File: images/ua1-overview.png Graphic file (type png)
 
 <use images/ua1-overview.png>
-Package pdftex.def Info: images/ua1-overview.png used on input line 119.
+Package pdftex.def Info: images/ua1-overview.png used on input line 197.
 (pdftex.def)             Requested size: 239.05229pt x 195.35999pt.
 File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
  <use images/university-of-melbourne-logo.jpg>
-Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input l
-ine 119.
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 197.
 (pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
 
-[4
+[7
 
-<./images/ua1-overview.png>]
-<images/ua1-sideview.png, id=143, 1056.94875pt x 607.26875pt>
+ <./images/ua1-overview.png>]
+<images/ua1-sideview.png, id=229, 1056.94875pt x 607.26875pt>
 File: images/ua1-sideview.png Graphic file (type png)
 
 <use images/ua1-sideview.png>
-Package pdftex.def Info: images/ua1-sideview.png used on input line 132.
+Package pdftex.def Info: images/ua1-sideview.png used on input line 210.
 (pdftex.def)             Requested size: 317.34511pt x 182.33519pt.
 File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
  <use images/university-of-melbourne-logo.jpg>
-Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input l
-ine 132.
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 210.
 (pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
 
-[5
+[8
 
-<./images/ua1-sideview.png>]
+ <./images/ua1-sideview.png>]
 File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
  <use images/university-of-melbourne-logo.jpg>
-Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input l
-ine 153.
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 226.
 (pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
 
-[6
+[9
 
-] <images/gondola.png, id=202, 459.7175pt x 650.43pt>
+] <images/track-imaging.png, id=283, 964.60374pt x 382.42876pt>
+File: images/track-imaging.png Graphic file (type png)
+
+<use images/track-imaging.png>
+Package pdftex.def Info: images/track-imaging.png used on input line 246.
+(pdftex.def)             Requested size: 290.9531pt x 115.34805pt.
+File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
+ <use images/university-of-melbourne-logo.jpg>
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 246.
+(pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
+
+[10
+
+ <./images/track-imaging.png>]
+<images/gondola.png, id=311, 459.7175pt x 650.43pt>
 File: images/gondola.png Graphic file (type png)
-
-<use images/gondola.png>
-Package pdftex.def Info: images/gondola.png used on input line 183.
+ <use images/gondola.png>
+Package pdftex.def Info: images/gondola.png used on input line 276.
 (pdftex.def)             Requested size: 119.66402pt x 169.3104pt.
- <images/bouchon.png, id=203, 485.815pt x 654.445pt>
-File: images/bouchon.png Graphic file (type png)
 
-<use images/bouchon.png>
-Package pdftex.def Info: images/bouchon.png used on input line 183.
+<images/bouchon.png, id=312, 485.815pt x 654.445pt>
+File: images/bouchon.png Graphic file (type png)
+ <use images/bouchon.png>
+Package pdftex.def Info: images/bouchon.png used on input line 276.
 (pdftex.def)             Requested size: 125.67882pt x 169.3104pt.
 File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
- <use images/university-of-melbourne-logo.jpg>
-Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input l
-ine 183.
-(pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
- [7
-
-<./images/gondola.png><./images/bouchon.png>]
-File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
 
 <use images/university-of-melbourne-logo.jpg>
-Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input l
-ine 195.
-(pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
- [8
-
-]
-File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
-
-<use images/university-of-melbourne-logo.jpg>
-Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input l
-ine 215.
-(pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
- [9
-
-]
-File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
-
-<use images/university-of-melbourne-logo.jpg>
-Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input l
-ine 235.
-(pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
- [10
-
-]
-File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
-
-<use images/university-of-melbourne-logo.jpg>
-Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input l
-ine 244.
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 276.
 (pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
  [11
 
-]
+ <./images/gondola.png> <./images/bouchon.png>]
+<images/gondola-scintillators.png, id=339, 525.965pt x 212.795pt>
+File: images/gondola-scintillators.png Graphic file (type png)
+
+<use images/gondola-scintillators.png>
+Package pdftex.def Info: images/gondola-scintillators.png used on input line 29
+5.
+(pdftex.def)             Requested size: 273.83728pt x 110.79364pt.
 File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
 
 <use images/university-of-melbourne-logo.jpg>
-Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input l
-ine 259.
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 295.
 (pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
  [12
 
-]
+ <./images/gondola-scintillators.png>] <images/e-hadron-separation.png, id=368,
+ 767.86874pt x 576.1525pt>
+File: images/e-hadron-separation.png Graphic file (type png)
+
+<use images/e-hadron-separation.png>
+Package pdftex.def Info: images/e-hadron-separation.png used on input line 314.
+
+(pdftex.def)             Requested size: 208.2881pt x 156.28958pt.
 File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
 
 <use images/university-of-melbourne-logo.jpg>
-Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input l
-ine 277.
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 314.
 (pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
  [13
 
+ <./images/e-hadron-separation.png>] <images/forward-region.png, id=397, 662.47
+5pt x 371.3875pt>
+File: images/forward-region.png Graphic file (type png)
+
+<use images/forward-region.png>
+Package pdftex.def Info: images/forward-region.png used on input line 334.
+(pdftex.def)             Requested size: 278.79358pt x 156.28958pt.
+File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
+ <use images/university-of-melbourne-logo.jpg>
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 334.
+(pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
+
+[14
+
+ <./images/forward-region.png>]
+File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
+
+<use images/university-of-melbourne-logo.jpg>
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 350.
+(pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
+ [15
+
 ]
 File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
 
 <use images/university-of-melbourne-logo.jpg>
-Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input l
-ine 291.
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 376.
 (pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
- [14
+ [16
+
+]
+File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
+
+<use images/university-of-melbourne-logo.jpg>
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 398.
+(pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
+ [17
+
+]
+File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
+
+<use images/university-of-melbourne-logo.jpg>
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 419.
+(pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
+ [18
+
+]
+File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
+
+<use images/university-of-melbourne-logo.jpg>
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 438.
+(pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
+ [19
+
+]
+<images/megatek.jpg, id=560, 481.8pt x 361.35pt>
+File: images/megatek.jpg Graphic file (type jpg)
+ <use images/megatek.jpg>
+Package pdftex.def Info: images/megatek.jpg used on input line 455.
+(pdftex.def)             Requested size: 208.38298pt x 156.28958pt.
+File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
+
+<use images/university-of-melbourne-logo.jpg>
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 455.
+(pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
+ [20
+
+ <./images/megatek.jpg>]
+<images/electron-selection-energy.png, id=590, 438.63875pt x 877.2775pt>
+File: images/electron-selection-energy.png Graphic file (type png)
+
+<use images/electron-selection-energy.png>
+Package pdftex.def Info: images/electron-selection-energy.png used on input lin
+e 484.
+(pdftex.def)             Requested size: 110.70352pt x 221.40958pt.
+
+<images/electron-selection-transverse-energy.png, id=591, 490.83376pt x 461.725
+pt>
+File: images/electron-selection-transverse-energy.png Graphic file (type png)
+ <use images/electron-selection-transverse-energy.png>
+Package pdftex.def Info: images/electron-selection-transverse-energy.png used o
+n input line 484.
+(pdftex.def)             Requested size: 184.84007pt x 173.87917pt.
+File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
+
+<use images/university-of-melbourne-logo.jpg>
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 484.
+(pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
+ [21
+
+ <./images/electron-selection-energy.png> <./images/electron-selection-transver
+se-energy.png>]
+File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
+
+<use images/university-of-melbourne-logo.jpg>
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 507.
+(pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
+ [22
+
+]
+<images/neutrino-without-jets.png, id=646, 415.5525pt x 538.01pt>
+File: images/neutrino-without-jets.png Graphic file (type png)
+
+<use images/neutrino-without-jets.png>
+Package pdftex.def Info: images/neutrino-without-jets.png used on input line 53
+4.
+(pdftex.def)             Requested size: 145.47653pt x 188.34737pt.
+
+<images/neutrino-with-jets.png, id=647, 403.5075pt x 515.9275pt>
+File: images/neutrino-with-jets.png Graphic file (type png)
+
+<use images/neutrino-with-jets.png>
+Package pdftex.def Info: images/neutrino-with-jets.png used on input line 534.
+(pdftex.def)             Requested size: 145.47653pt x 186.0093pt.
+File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
+
+<use images/university-of-melbourne-logo.jpg>
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 534.
+(pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
+ [23
+
+ <./images/neutrino-without-jets.png (PNG copy)> <./images/neutrino-with-jets.p
+ng (PNG copy)>]
+File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
+
+<use images/university-of-melbourne-logo.jpg>
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 548.
+(pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
+ [24
+
+]
+<images/event-information.png, id=701, 1116.17pt x 530.98375pt>
+File: images/event-information.png Graphic file (type png)
+
+<use images/event-information.png>
+Package pdftex.def Info: images/event-information.png used on input line 562.
+(pdftex.def)             Requested size: 342.2953pt x 162.83699pt.
+File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
+
+<use images/university-of-melbourne-logo.jpg>
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 562.
+(pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
+ [25
+
+ <./images/event-information.png>]
+File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
+ <use images/university-of-melbourne-logo.jpg>
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 582.
+(pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
+ [26
+
+]
+File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
+
+<use images/university-of-melbourne-logo.jpg>
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 597.
+(pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
+ [27
+
+]
+<images/transverse-mass.png, id=782, 1106.1325pt x 457.71pt>
+File: images/transverse-mass.png Graphic file (type png)
+
+<use images/transverse-mass.png>
+Package pdftex.def Info: images/transverse-mass.png used on input line 620.
+(pdftex.def)             Requested size: 273.83728pt x 113.30977pt.
+File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
+ <use images/university-of-melbourne-logo.jpg>
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 620.
+(pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
+
+[28
+
+ <./images/transverse-mass.png>]
+File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
+
+<use images/university-of-melbourne-logo.jpg>
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 643.
+(pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
+ [29
+
+]
+File: images/university-of-melbourne-logo.jpg Graphic file (type jpg)
+
+<use images/university-of-melbourne-logo.jpg>
+Package pdftex.def Info: images/university-of-melbourne-logo.jpg used on input 
+line 656.
+(pdftex.def)             Requested size: 42.35146pt x 42.67912pt.
+ [30
 
 ]
 \tf@nav=\write6
+\openout6 = `advanced_seminar_10_3_2016.nav'.
 
-\openout6 = advanced_seminar_10_3_2016.nav
 \tf@toc=\write7
+\openout7 = `advanced_seminar_10_3_2016.toc'.
 
-\openout7 = advanced_seminar_10_3_2016.toc
 \tf@snm=\write8
+\openout8 = `advanced_seminar_10_3_2016.snm'.
 
-\openout8 = advanced_seminar_10_3_2016.snm
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 298.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 298.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 663.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 663.
 
 (./advanced_seminar_10_3_2016.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 298.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 298.
-Package rerunfilecheck Info: File `advanced_seminar_10_3_2016.out' has not chang
-ed.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 663.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 663.
+Package rerunfilecheck Info: File `advanced_seminar_10_3_2016.out' has not chan
+ged.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 1.0pt have occurred.
+(Font)              up to 4.0375pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 298.
-)
-
-Here is how much of LuaTeX's memory you used:
- 27503 strings out of 494956
- 100000,662416 words of node,token memory allocated
- 2441 words of node memory still in use:
-   49 hlist, 11 vlist, 6 rule, 8 disc, 14 math, 71 glue, 10 kern, 20 penalty, 99
- glyph, 105 glue_spec, 3 write, 5 local_par, 2 pdf_refxform, 26 pdf_colorstack n
-odes
-   avail lists: 2:42,3:390,4:629,5:101,6:849,7:16,8:28,9:241,10:74
- 29828 multiletter control sequences out of 65536+600000
- 82 fonts using 3231855 bytes
- 55i,16n,57p,1202b,848s stack positions out of 5000i,500n,10000p,200000b,100000s
-<</home/brmoore/.local/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.p
-fb><</home/brmoore/.local/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss
-10.pfb><</home/brmoore/.local/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmss12.pfb><</home/brmoore/.local/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmss8.pfb><</home/brmoore/.local/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmss9.pfb><</home/brmoore/.local/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmssi10.pfb><</home/brmoore/.local/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmssi12.pfb><</home/brmoore/.local/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmssi9.pfb><</home/brmoore/.local/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmsy10.pfb><</home/brmoore/.local/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsy8.pfb><</home/brmoore/.local/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on advanced_seminar_10_3_2016.pdf (14 pages, 1413389 bytes).
-
-PDF statistics: 462 PDF objects out of 1000 (max. 8388607)
- 412 compressed objects within 5 object streams
- 29 named destinations out of 1000 (max. 131072)
- 40 words of extra memory for PDF output out of 10000 (max. 10000000)
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 663.
+ ) 
+Here is how much of TeX's memory you used:
+ 26276 strings out of 493117
+ 537933 string characters out of 6135433
+ 557801 words of memory out of 5000000
+ 29176 multiletter control sequences out of 15000+600000
+ 33532 words of font info for 129 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 56i,16n,57p,10412b,834s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.
+pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.p
+fb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pf
+b></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb>
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></
+usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></u
+sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></us
+r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/
+local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/lo
+cal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/lo
+cal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/lo
+cal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/loc
+al/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/loca
+l/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
+/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive
+/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on advanced_seminar_10_3_2016.pdf (30 pages, 2041351 bytes).
+PDF statistics:
+ 942 PDF objects out of 1000 (max. 8388607)
+ 844 compressed objects within 9 object streams
+ 61 named destinations out of 1000 (max. 500000)
+ 158 words of extra memory for PDF output out of 10000 (max. 10000000)
 
